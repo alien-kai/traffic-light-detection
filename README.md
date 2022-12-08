@@ -1,2 +1,2 @@
 # traffic-light-detection
-Hough circle and resnet using C++
+Both Hough circles and deep learning algorithms for detecting traffic lights using C++.
